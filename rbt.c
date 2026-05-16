@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define elementi 500000
+#define elementi 50000 // <-------- NUMERO DI ELEMENTI GENERATI
 
 /****REGOLE DEL RED-BLACK TREE****
 
